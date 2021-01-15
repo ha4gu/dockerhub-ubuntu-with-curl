@@ -1,3 +1,4 @@
+# Ubuntu 16.04 LTSの通常サポート期限: 2021年4月
 FROM ubuntu:16.04
 
 RUN  apt-get update -qq &&\

@@ -1,3 +1,4 @@
+# Ubuntu 18.04 LTSの通常サポート期限: 2023年4月
 FROM ubuntu:18.04
 
 RUN  apt-get update -qq &&\
